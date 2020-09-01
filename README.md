@@ -19,5 +19,6 @@ Nice login && sign up from with JavaScript:
 #
 i hope enjoy this app :
 #
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=fMqG3X5-imA)
+[![SC2 Video](doc/SC2_youtube.PNG)](https://www.youtube.com/watch?v=--b-9HrKK6w "SC2 Mini game - Click to Watch!")
+
 
