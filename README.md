@@ -18,3 +18,6 @@ Nice login && sign up from with JavaScript:
 8-show and hide password
 #
 i hope enjoy this app :
+#
+[![Watch the video]](https://www.youtube.com/watch?v=fMqG3X5-imA)
+
