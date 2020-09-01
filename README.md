@@ -19,5 +19,5 @@ Nice login && sign up from with JavaScript:
 #
 i hope enjoy this app :
 #
-[![Watch the video]](https://www.youtube.com/watch?v=fMqG3X5-imA)
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=fMqG3X5-imA)
 
