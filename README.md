@@ -19,6 +19,8 @@ Nice login && sign up from with JavaScript:
 #
 i hope enjoy this app :
 #
-[![SC2 Video](doc/SC2_youtube.PNG)](https://www.youtube.com/watch?v=--b-9HrKK6w "SC2 Mini game - Click to Watch!")
 
 
+<div class="iframe_container">
+  <iframe src="http://www.youtube.com/embed/E-ONNjFoOx0" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</div>
